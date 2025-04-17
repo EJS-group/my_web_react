@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#####Now that Node.js and NPM are installed, you can start using Node.js to run JavaScript on the server side. 
+You can also use NPM to manage JavaScript packages and dependencies for your projects.
+###  [npm install]
+
+
 ## Available Scripts
 
 In the project directory, you can run:
