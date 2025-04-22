@@ -7,6 +7,9 @@ function App() {
   return (
     <Box>
       <Typography>Hello World</Typography>
+      <h4>hello</h4>
+      <Typography variant="h6">Hello World</Typography>
+      <Typography variant="h5">Hello World</Typography>
       <Typography variant="h5">Hello World</Typography>
     </Box>
   );
