@@ -11,6 +11,7 @@ function App() {
       <Typography variant="h6">Hello World</Typography>
       <Typography variant="h5">Hello World</Typography>
       <Typography variant="h5">Hello World</Typography>
+      <h1>react native learning</h1>
     </Box>
   );
 }
